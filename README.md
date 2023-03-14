@@ -1,1 +1,0 @@
-# Aqui estão as minhas atividades realizadas durante o curso oferado pela UFES (Universidade Federal do Espírito Santo), chamado de Introcomp. Nela está presente as atividades da primeira parte do curso (Módulo 01) e o início da segunda parte (Módulo 02);
